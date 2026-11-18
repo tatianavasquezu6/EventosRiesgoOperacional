@@ -4,7 +4,7 @@ Evidencias de trabajo relacionado con los eventos de riesgo operacional, transfo
 # Caso de negocio
 En la Cooperativa se registran eventos de riesgo operacional asociados con fallas de procesos, errores humanos, incidentes tecnológicos, deficiencias de control, proveedores y otras causas. La Superintendencia Financiera de Colombia exige que en las entidades financieras se lleve un histórico con la información histórica de los eventos de riesgo operacional, sin embargo, esta información es susceptible de ser analizada para identificar tendencias, eventos con causas recurrentes que requieran planes de tratamientos de riesgo y estimaciones de exposición económica o pérdidas potenciales. 
 
-<img width="1002" height="663" alt="image" src="https://github.com/user-attachments/assets/825fdcd4-1166-4b9a-b507-0070e7019a07" />
+<img width="675" height="446" alt="image" src="https://github.com/user-attachments/assets/ffc681d3-15ea-4e96-8b13-07e2ad8a1b77" />
 
 # Beneficios
 El presente proyecto busca convertir registros históricos en información útil para identificar tendencias, tomar acciones preventivas y correctivas y medir exposición económica. Se esperan los siguientes beneficios:
@@ -16,4 +16,5 @@ El presente proyecto busca convertir registros históricos en información útil
 
 # Arquitectura
 
-<img width="1059" height="538" alt="image" src="https://github.com/user-attachments/assets/a3dd347a-3a07-43ab-8d58-d1622a928be0" />
+<img width="805" height="409" alt="image" src="https://github.com/user-attachments/assets/5bb98c01-bca8-4386-a842-29f6a7510575" />
+
