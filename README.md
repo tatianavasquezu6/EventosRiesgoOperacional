@@ -16,5 +16,6 @@ El presente proyecto busca convertir registros históricos en información útil
 
 # Arquitectura
 
-<img width="805" height="409" alt="image" src="https://github.com/user-attachments/assets/5bb98c01-bca8-4386-a842-29f6a7510575" />
+<img width="865" height="437" alt="image" src="https://github.com/user-attachments/assets/f18128da-afdb-4e11-8a54-412698231652" />
+
 
