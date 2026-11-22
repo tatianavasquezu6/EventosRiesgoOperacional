@@ -15,7 +15,7 @@ El presente proyecto busca convertir registros históricos en información útil
 
 # 4. Pipeline
 
-Se realiza ingesta de datos en Databricks con estructura medallion (bronze, silver y gold), y para ello se ejecuta el proceso en 7 diferentes etapas secuenciales:
+Se realiza ingesta de datos en Databricks con estructura medallion (bronze, silver y gold), y para ello se ejecuta el proceso en 6 diferentes etapas secuenciales:
 
 # 4.1 Inspección de datos
 
@@ -41,12 +41,29 @@ Se realiza ingesta de datos en Databricks con estructura medallion (bronze, silv
 
 <img width="973" height="331" alt="image" src="https://github.com/user-attachments/assets/e0533969-c995-43d1-9a73-74ea481013c0" />
 
-
-
 # 4.4 Etapa Gold
+
+<img width="1181" height="533" alt="image" src="https://github.com/user-attachments/assets/52aca7f1-2234-48cd-931b-40b2ee776aad" />
+
+<img width="964" height="362" alt="image" src="https://github.com/user-attachments/assets/30f4190d-75a4-4187-9d19-e848fa1e2825" />
+
+<img width="855" height="481" alt="image" src="https://github.com/user-attachments/assets/5d5c986b-be1b-4d55-bc36-71eb756f77a7" />
 
 # 4.5 Etapa Controles de Calidad
 
-# 4.6 Análisis estadístico y modelamiento
+<img width="1134" height="550" alt="image" src="https://github.com/user-attachments/assets/cdd8da76-8a72-4207-a5b4-f272246ff140" />
 
-# 4.7 Cálculo del VaR
+<img width="1004" height="314" alt="image" src="https://github.com/user-attachments/assets/b91f72b6-ba29-4b86-9e83-2363e34fe099" />
+
+<img width="977" height="474" alt="image" src="https://github.com/user-attachments/assets/b22e688a-09c9-4712-9ef3-4b3823785532" />
+
+# 4.6 Cálculo del VaR
+
+m<img width="1143" height="333" alt="image" src="https://github.com/user-attachments/assets/951a656b-4696-4a5c-a099-4f06c0037e3a" />
+
+<img width="979" height="420" alt="image" src="https://github.com/user-attachments/assets/ce9ebc1c-e182-434b-a5ab-071795bb408b" />
+
+# Conclusión: PONER CONCLUSIÓN
+
+# 5 Dashboard
+
