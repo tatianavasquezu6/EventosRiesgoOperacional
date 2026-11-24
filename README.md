@@ -72,7 +72,7 @@ Los resultados obtenidos durante el desarrollo del proyecto fueron satisfactorio
 
 De igual manera, los análisis estadísticos y los procedimientos implementados para el cálculo del VaR, así como sus resultados, son coherentes y reflejan comportamientos razonables y consistentes con la realidad de la entidad, así como con las estimaciones y referencias de exposición a pérdidas disponibles a la fecha.
 
-# Modelos de ciencia de datos
+# 5. Modelos de ciencia de datos
 
 El proyecto utiliza técnicas de análisis y modelamiento de datos para comprender el comportamiento de los eventos de riesgo operacional y estimar las posibles pérdidas asociadas.
 
@@ -84,7 +84,7 @@ Simulación de Monte Carlo: permite realizar múltiples simulaciones de posibles
 
 Estos componentes permiten complementar el análisis histórico con estimaciones de pérdidas potenciales y generar información que contribuya al seguimiento y la gestión del riesgo operacional.
 
-# 5 Dashboard
+# 6 Dashboard
 
 Se diseñó un tablero de control que consolida indicadores clave para la gestión del riesgo operacional, proporcionando información de valor para el seguimiento y la toma de decisiones. El análisis se centra principalmente en los eventos tipo A, que generan pérdidas económicas, y los eventos tipo B, que no producen impacto económico, así como en su distribución a través de los diferentes procesos y categorías. Adicionalmente, el tablero incorpora el cálculo del Valor en Riesgo (VaR) con niveles de confianza del 95% y 99%, permitiendo estimar la exposición potencial a pérdidas bajo distintos escenarios: un escenario moderado con un nivel de confianza del 95% y un escenario extremo o de mayor severidad con un nivel de confianza del 99%.
 
