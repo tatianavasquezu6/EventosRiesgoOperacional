@@ -63,7 +63,12 @@ m<img width="1143" height="333" alt="image" src="https://github.com/user-attachm
 
 <img width="979" height="420" alt="image" src="https://github.com/user-attachments/assets/ce9ebc1c-e182-434b-a5ab-071795bb408b" />
 
-# Conclusión: Los resultados obtenidos durante el desarrollo del proyecto fueron satisfactorios y permitieron evidenciar el valor de la analítica de datos como herramienta de apoyo para la gestión del riesgo operacional. El análisis exploratorio de datos (EDA) facilitó la identificación de patrones, tendencias, concentraciones y comportamientos relevantes en los eventos y las pérdidas históricas, proporcionando una visión más amplia de la exposición de la entidad al riesgo operacional.
+# Estructura Medallion:
+
+<img width="311" height="179" alt="image" src="https://github.com/user-attachments/assets/9fb50a2e-f469-47c9-b11a-8883e199ca05" />
+
+# Conclusión: 
+Los resultados obtenidos durante el desarrollo del proyecto fueron satisfactorios y permitieron evidenciar el valor de la analítica de datos como herramienta de apoyo para la gestión del riesgo operacional. El análisis exploratorio de datos (EDA) facilitó la identificación de patrones, tendencias, concentraciones y comportamientos relevantes en los eventos y las pérdidas históricas, proporcionando una visión más amplia de la exposición de la entidad al riesgo operacional.
 
 De igual manera, los análisis estadísticos y los procedimientos implementados para el cálculo del VaR, así como sus resultados, son coherentes y reflejan comportamientos razonables y consistentes con la realidad de la entidad, así como con las estimaciones y referencias de exposición a pérdidas disponibles a la fecha.
 
