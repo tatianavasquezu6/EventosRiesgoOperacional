@@ -18,18 +18,21 @@ El presente proyecto busca convertir registros históricos en información útil
 Se realiza ingesta de datos en Databricks con estructura medallion (bronze, silver y gold), y para ello se ejecuta el proceso en 6 diferentes etapas secuenciales:
 
 # 4.1 Inspección de datos
+Se realiza una revisión inicial de la información disponible para conocer su estructura, contenido y características generales. Esta etapa permite identificar posibles inconsistencias, datos faltantes y aspectos que requieren atención antes de iniciar el procesamiento.
 
 <img width="1120" height="342" alt="image" src="https://github.com/user-attachments/assets/06d2f0fe-0b3d-4f7f-87a2-1503a653be76" />
 
 <img width="964" height="378" alt="image" src="https://github.com/user-attachments/assets/72bce5cc-07e0-4986-97d7-aecf1f4d1a9d" />
 
 # 4.2 Etapa Bronze
+Se realiza la carga y almacenamiento inicial de la información original, conservando los datos tal como fueron recibidos. Esta etapa permite disponer de una fuente organizada para continuar con el proceso de transformación.
 
 <img width="1149" height="420" alt="image" src="https://github.com/user-attachments/assets/b2c8474c-1381-4eaa-bb85-7dbf9438a388" />
 
 <img width="932" height="245" alt="image" src="https://github.com/user-attachments/assets/cbfc60a4-dc13-490c-9f11-0e1f0a542d0d" />
 
 # 4.3 Etapa Silver
+Se lleva a cabo la limpieza, organización y estandarización de los datos, realizando los ajustes necesarios para mejorar su calidad y facilitar su utilización en los análisis posteriores.
 
 <img width="1137" height="515" alt="image" src="https://github.com/user-attachments/assets/04f326a4-4858-4cd4-8448-57f1f832add7" />
 
@@ -42,6 +45,7 @@ Se realiza ingesta de datos en Databricks con estructura medallion (bronze, silv
 <img width="973" height="331" alt="image" src="https://github.com/user-attachments/assets/e0533969-c995-43d1-9a73-74ea481013c0" />
 
 # 4.4 Etapa Gold
+Se prepara la información final mediante la consolidación y organización de los datos procesados, dejándolos listos para su consulta, análisis y utilización en el desarrollo del proyecto.
 
 <img width="1181" height="533" alt="image" src="https://github.com/user-attachments/assets/52aca7f1-2234-48cd-931b-40b2ee776aad" />
 
@@ -50,6 +54,7 @@ Se realiza ingesta de datos en Databricks con estructura medallion (bronze, silv
 <img width="855" height="481" alt="image" src="https://github.com/user-attachments/assets/5d5c986b-be1b-4d55-bc36-71eb756f77a7" />
 
 # 4.5 Etapa Controles de Calidad
+Se realizan verificaciones sobre la información procesada para comprobar que cumpla con las condiciones de calidad esperadas, identificando posibles errores, inconsistencias o registros que requieran revisión.
 
 <img width="1134" height="550" alt="image" src="https://github.com/user-attachments/assets/cdd8da76-8a72-4207-a5b4-f272246ff140" />
 
@@ -58,6 +63,7 @@ Se realiza ingesta de datos en Databricks con estructura medallion (bronze, silv
 <img width="977" height="474" alt="image" src="https://github.com/user-attachments/assets/b22e688a-09c9-4712-9ef3-4b3823785532" />
 
 # 4.6 Cálculo del VaR
+Se realiza la estimación del Valor en Riesgo (VaR) con el propósito de cuantificar las posibles pérdidas asociadas a los eventos de riesgo operacional. Para ello, se utilizan los datos procesados y los resultados de las simulaciones realizadas, obteniendo una estimación de las pérdidas potenciales bajo diferentes escenarios.
 
 m<img width="1143" height="333" alt="image" src="https://github.com/user-attachments/assets/951a656b-4696-4a5c-a099-4f06c0037e3a" />
 
